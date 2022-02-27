@@ -16,5 +16,6 @@ public class C01_IfStatements {
         // bir sart ve o sarta bagli sonuca odaklidir
         // birden fazla bagimsiz if cumlesi oldugunda hepsinin body calisabilecegi gibi
         //  hicbirisinin body'si calismayada bilir
+
     }
 }
