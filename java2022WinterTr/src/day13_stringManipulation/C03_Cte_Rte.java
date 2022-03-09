@@ -1,4 +1,7 @@
 package day13_stringManipulation;
+
+import java.util.Locale;
+
 public class C03_Cte_Rte {
     public static void main(String[] args) {
         // int sayi="Ali Can"; // syntax hatalarini java yazdigimizda gorur
@@ -7,5 +10,7 @@ public class C03_Cte_Rte {
         // projede hic bir class calismaz
         String str = "Javada hersey zamanla oturur";
         System.out.println(str.substring(5000));
+
+        System.out.println(str.toUpperCase());
     }
 }
